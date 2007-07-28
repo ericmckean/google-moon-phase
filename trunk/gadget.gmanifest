@@ -1,5 +1,5 @@
 <!-- 
-Copyright (C) 2007 Google Inc
+Copyright (C) 2007 Google Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -22,10 +22,13 @@ limitations under the License.
 		<smallIcon>moon_24x24.gif</smallIcon>
 		<icon>moon_32x32.gif</icon>
 		<version>1.0.0.1</version>
-		<authorWebsite>http://desktop.google.com/dev</authorWebsite>
+		<authorWebsite>http://www.soundofcode.com/?q=node/5</authorWebsite>
 		<id>F4CB1691-3155-480A-A3E8-7C36428F0AB7</id>
-		<copyright>Copyright (c) 2007 Google Inc.</copyright>
-		<author>Google</author>
+		<copyright>Copyright 2007 Google Inc.
+			     Licensed under the Apache License, Version 2.0
+			     http://www.apache.org/licenses/LICENSE-2.0
+		</copyright>
+		<author>Google - Open Source</author>
 		<authorEmail></authorEmail>
 	</about>
 </gadget>

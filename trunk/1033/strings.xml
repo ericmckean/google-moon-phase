@@ -1,4 +1,4 @@
-﻿<!-- 
+<!-- 
 Copyright (C) 2007 Google Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,9 +18,16 @@ limitations under the License.
   <GADGET_NAME>Google Moon Phase</GADGET_NAME>
   <GADGET_DESCRIPTION>Shows current phase of the moon</GADGET_DESCRIPTION>
   <GADGET_ABOUT_TEXT>Google Moon Phase
-Copyright (c) 2007 Google Inc.
-Computes and displays the moon's current phase.
-Link to stardate.org provided under permission of The University of Texas McDonald Observatory.</GADGET_ABOUT_TEXT>
+  Copyright (c) 2007 Google Inc.
+  Computes and displays the moon's current phase.
+  Link to stardate.org provided under permission of The University of Texas McDonald Observatory.
+
+  This gadget was created by Google and is maintained by the open-source community
+  http://code.google.com/p/google-moon-phase/
+
+  Open source project coordinated by Lahiru Lakmal Priyadarshana
+  http://www.soundofcode.com/
+  </GADGET_ABOUT_TEXT>
   <STRING_DAYS_OLD>days old</STRING_DAYS_OLD>
   <STRING_MOON_AGE_PREFIX>Moon is</STRING_MOON_AGE_PREFIX>
   <STRING_MOON_SHORT>Moon</STRING_MOON_SHORT>

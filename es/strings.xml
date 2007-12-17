@@ -1,0 +1,22 @@
+﻿<strings>
+<GADGET_NAME>Fases lunares de Google</GADGET_NAME>
+<GADGET_DESCRIPTION>Muestra la fase actual de la luna</GADGET_DESCRIPTION>
+<GADGET_ABOUT_TEXT>Fases lunares de Google Copyright 2007 Google Inc. Con licencia de Apache, versión 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
+  Calcula y muestra la fase actual de la luna. Hay un vínculo a stardate.org proporcionado con el permiso del Observatorio McDonald de la Universidad de Texas.
+
+ Este gadget ha sido creado por Google y lo mantiene la comunidad de código abierto http://code.google.com/p/google-moon-phase/
+
+  Proyecto de código abierto coordinado por Lahiru Lakmal Priyadarshana http://www.soundofcode.com/</GADGET_ABOUT_TEXT>
+<STRING_DAYS_OLD>días</STRING_DAYS_OLD>
+<STRING_MOON_AGE_PREFIX>La luna es</STRING_MOON_AGE_PREFIX>
+<STRING_MOON_SHORT>Luna</STRING_MOON_SHORT>
+<STRING_MOON_DESC_NEW>Luna nueva</STRING_MOON_DESC_NEW>
+<STRING_MOON_DESC_FIRST_QUARTER>Cuarto creciente</STRING_MOON_DESC_FIRST_QUARTER>
+<STRING_MOON_DESC_FULL>Luna llena</STRING_MOON_DESC_FULL>
+<STRING_MOON_DESC_THIRD_QUARTER>Tercer trimestre</STRING_MOON_DESC_THIRD_QUARTER>
+<STRING_MOON_DESC_WAXING_CRESCENT>Luna creciente</STRING_MOON_DESC_WAXING_CRESCENT>
+<STRING_MOON_DESC_WAXING_GIBBOUS>Creciente gibosa</STRING_MOON_DESC_WAXING_GIBBOUS>
+<STRING_MOON_DESC_WANING_GIBBOUS>Menguante gibosa</STRING_MOON_DESC_WANING_GIBBOUS>
+<STRING_MOON_DESC_WANING_CRESCENT>Luna menguante</STRING_MOON_DESC_WANING_CRESCENT>
+</strings>

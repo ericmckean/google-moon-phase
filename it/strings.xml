@@ -1,0 +1,22 @@
+﻿<strings>
+<GADGET_NAME>Fase lunare di Google</GADGET_NAME>
+<GADGET_DESCRIPTION>Indica la fase lunare in corso</GADGET_DESCRIPTION>
+<GADGET_ABOUT_TEXT>Fase lunare di Google Copyright 2007 Google Inc. Concessione in licenza regolata dalla Licenza Apache, Versione 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
+  Calcola e mostra la fase lunare in corso. Collegamento a stardate.org disponibile con l'autorizzazione del McDonald Observatory (University of Texas).
+
+ Questo gadget è stato creato da Google e viene gestito dalla community open-source http://code.google.com/p/google-moon-phase/
+
+  Progetto open source coordinato da Lahiru Lakmal Priyadarshana http://www.soundofcode.com/</GADGET_ABOUT_TEXT>
+<STRING_DAYS_OLD>giorni fa</STRING_DAYS_OLD>
+<STRING_MOON_AGE_PREFIX>La luna è</STRING_MOON_AGE_PREFIX>
+<STRING_MOON_SHORT>Luna</STRING_MOON_SHORT>
+<STRING_MOON_DESC_NEW>Luna nuova</STRING_MOON_DESC_NEW>
+<STRING_MOON_DESC_FIRST_QUARTER>Primo quarto</STRING_MOON_DESC_FIRST_QUARTER>
+<STRING_MOON_DESC_FULL>Luna piena</STRING_MOON_DESC_FULL>
+<STRING_MOON_DESC_THIRD_QUARTER>Terzo quarto</STRING_MOON_DESC_THIRD_QUARTER>
+<STRING_MOON_DESC_WAXING_CRESCENT>Luna crescente</STRING_MOON_DESC_WAXING_CRESCENT>
+<STRING_MOON_DESC_WAXING_GIBBOUS>Gobba a levante</STRING_MOON_DESC_WAXING_GIBBOUS>
+<STRING_MOON_DESC_WANING_GIBBOUS>Gobba a ponente</STRING_MOON_DESC_WANING_GIBBOUS>
+<STRING_MOON_DESC_WANING_CRESCENT>Luna calante</STRING_MOON_DESC_WANING_CRESCENT>
+</strings>

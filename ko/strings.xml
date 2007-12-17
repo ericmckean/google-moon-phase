@@ -1,0 +1,22 @@
+﻿<strings>
+<GADGET_NAME>Google 달 모양</GADGET_NAME>
+<GADGET_DESCRIPTION>달의 현재 모양을 표시합니다.</GADGET_DESCRIPTION>
+<GADGET_ABOUT_TEXT>Google 달 모양 Copyright 2007 Google Inc. Apache License 버전 2.0(http://www.apache.org/licenses/LICENSE-2.0)에 따라 라이센스 체결되었음
+
+  달의 현재 모양을 컴퓨팅하여 표시합니다. 텍사스 대학 McDonald 천문대의 허가하에 제공되는 stardate.org 페이지로 연결됩니다.
+
+ 이 가젯은 Google이 제작하였고 오픈 소스 커뮤니티에 의해 관리됩니다. http://code.google.com/p/google-moon-phase/
+
+  오픈 소스 프로젝트는 Lahiru Lakmal Priyadarshana(http://www.soundofcode.com/)에 의해 관리됩니다.</GADGET_ABOUT_TEXT>
+<STRING_DAYS_OLD>일</STRING_DAYS_OLD>
+<STRING_MOON_AGE_PREFIX>현재 달 모양:</STRING_MOON_AGE_PREFIX>
+<STRING_MOON_SHORT>달</STRING_MOON_SHORT>
+<STRING_MOON_DESC_NEW>삭</STRING_MOON_DESC_NEW>
+<STRING_MOON_DESC_FIRST_QUARTER>상현달</STRING_MOON_DESC_FIRST_QUARTER>
+<STRING_MOON_DESC_FULL>보름달</STRING_MOON_DESC_FULL>
+<STRING_MOON_DESC_THIRD_QUARTER>하현달</STRING_MOON_DESC_THIRD_QUARTER>
+<STRING_MOON_DESC_WAXING_CRESCENT>초승달</STRING_MOON_DESC_WAXING_CRESCENT>
+<STRING_MOON_DESC_WAXING_GIBBOUS>부푼 상현달</STRING_MOON_DESC_WAXING_GIBBOUS>
+<STRING_MOON_DESC_WANING_GIBBOUS>부푼 하현달</STRING_MOON_DESC_WANING_GIBBOUS>
+<STRING_MOON_DESC_WANING_CRESCENT>그믐달</STRING_MOON_DESC_WANING_CRESCENT>
+</strings>

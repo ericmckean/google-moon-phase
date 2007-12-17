@@ -1,0 +1,22 @@
+﻿<strings>
+<GADGET_NAME>Google Moon-Phase</GADGET_NAME>
+<GADGET_DESCRIPTION>Zeigt die aktuelle Mondphase an.</GADGET_DESCRIPTION>
+<GADGET_ABOUT_TEXT>Google Moon-Phase, Copyright 2007 Google Inc. Lizenziert unter der Apache-Lizenz, Version 2.0. Siehe http://www.apache.org/licenses/LICENSE-2.0.
+
+ Berechnet die Mondphase und zeigt die aktuelle Mondphase an. Link zu stardate.org wird mit der Erlaubnis des McDonald-Observatoriums der University of Texas bereitgestellt.
+
+ Dieses Gadget wurde von Google entwickelt und wird von der Open-Source-Community unterhalten. Siehe http://code.google.com/p/google-moon-phase/.
+
+  Das Open-Source-Projekt wird von Lahiru Lakmal Priyadarshana geleitet. Siehe http://www.soundofcode.com/.</GADGET_ABOUT_TEXT>
+<STRING_DAYS_OLD>Tage alt</STRING_DAYS_OLD>
+<STRING_MOON_AGE_PREFIX>Mond ist</STRING_MOON_AGE_PREFIX>
+<STRING_MOON_SHORT>Mond</STRING_MOON_SHORT>
+<STRING_MOON_DESC_NEW>Neumond</STRING_MOON_DESC_NEW>
+<STRING_MOON_DESC_FIRST_QUARTER>Erstes Quartal</STRING_MOON_DESC_FIRST_QUARTER>
+<STRING_MOON_DESC_FULL>Vollmond</STRING_MOON_DESC_FULL>
+<STRING_MOON_DESC_THIRD_QUARTER>Drittes Quartal</STRING_MOON_DESC_THIRD_QUARTER>
+<STRING_MOON_DESC_WAXING_CRESCENT>Neumond</STRING_MOON_DESC_WAXING_CRESCENT>
+<STRING_MOON_DESC_WAXING_GIBBOUS>Zunehmender Mond</STRING_MOON_DESC_WAXING_GIBBOUS>
+<STRING_MOON_DESC_WANING_GIBBOUS>Abnehmender Mond</STRING_MOON_DESC_WANING_GIBBOUS>
+<STRING_MOON_DESC_WANING_CRESCENT>Abnehmender Mond</STRING_MOON_DESC_WANING_CRESCENT>
+</strings>

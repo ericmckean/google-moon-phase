@@ -1,0 +1,22 @@
+﻿<strings>
+<GADGET_NAME>Google Moon Phase</GADGET_NAME>
+<GADGET_DESCRIPTION>Berekent en toont de huidige stand van de maan.</GADGET_DESCRIPTION>
+<GADGET_ABOUT_TEXT>Google Moon Phase Copyright 2007 Google Inc. In licentie gegeven onder de Apache-licentie, versie 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
+  Berekent en toont de huidige stand van de maan. Link naar stardate.org wordt geleverd met toestemming van de McDonald Observatory van de University of Texas.
+
+ Deze gadget is gemaakt door Google en wordt onderhouden door de open-sourcecommunity http://code.google.com/p/google-moon-phase/
+
+  Het open-sourceproject wordt gecoördineerd door Lahiru Lakmal Priyadarshana  http://www.soundofcode.com/</GADGET_ABOUT_TEXT>
+<STRING_DAYS_OLD>dagen oud</STRING_DAYS_OLD>
+<STRING_MOON_AGE_PREFIX>Maan is</STRING_MOON_AGE_PREFIX>
+<STRING_MOON_SHORT>Maan</STRING_MOON_SHORT>
+<STRING_MOON_DESC_NEW>Nieuwe maan</STRING_MOON_DESC_NEW>
+<STRING_MOON_DESC_FIRST_QUARTER>Eerste kwartaal</STRING_MOON_DESC_FIRST_QUARTER>
+<STRING_MOON_DESC_FULL>Volle maan</STRING_MOON_DESC_FULL>
+<STRING_MOON_DESC_THIRD_QUARTER>Derde kwartaal</STRING_MOON_DESC_THIRD_QUARTER>
+<STRING_MOON_DESC_WAXING_CRESCENT>Wassende maan</STRING_MOON_DESC_WAXING_CRESCENT>
+<STRING_MOON_DESC_WAXING_GIBBOUS>Tussen half en vol wassend</STRING_MOON_DESC_WAXING_GIBBOUS>
+<STRING_MOON_DESC_WANING_GIBBOUS>Tussen half en vol afnemend</STRING_MOON_DESC_WANING_GIBBOUS>
+<STRING_MOON_DESC_WANING_CRESCENT>Afnemende maan</STRING_MOON_DESC_WANING_CRESCENT>
+</strings>

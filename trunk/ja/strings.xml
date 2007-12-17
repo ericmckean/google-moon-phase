@@ -1,0 +1,22 @@
+﻿<strings>
+<GADGET_NAME>Google 月の相</GADGET_NAME>
+<GADGET_DESCRIPTION>月の現在の相を表示</GADGET_DESCRIPTION>
+<GADGET_ABOUT_TEXT>Google 月の相: Copyright 2007 Google Inc. Apache License バージョン 2.0 のライセンス認可 http://www.apache.org/licenses/LICENSE-2.0
+
+  月の現在の相を計算して表示します。 stardate.org へのリンクは University of Texas McDonald Observatory の許可を得て提供されています。
+
+ このガジェットは Google が作成し、オープン ソース コミュニティ (http://code.google.com/p/google-moon-phase/) で管理しています。
+
+  Lahiru Lakmal Priyadarshana 主催のオープン ソース プロジェクト http://www.soundofcode.com/</GADGET_ABOUT_TEXT>
+<STRING_DAYS_OLD>日目</STRING_DAYS_OLD>
+<STRING_MOON_AGE_PREFIX>月の相:</STRING_MOON_AGE_PREFIX>
+<STRING_MOON_SHORT>月</STRING_MOON_SHORT>
+<STRING_MOON_DESC_NEW>新月</STRING_MOON_DESC_NEW>
+<STRING_MOON_DESC_FIRST_QUARTER>第 1 四半期</STRING_MOON_DESC_FIRST_QUARTER>
+<STRING_MOON_DESC_FULL>満月</STRING_MOON_DESC_FULL>
+<STRING_MOON_DESC_THIRD_QUARTER>第 3 四半期</STRING_MOON_DESC_THIRD_QUARTER>
+<STRING_MOON_DESC_WAXING_CRESCENT>三日月</STRING_MOON_DESC_WAXING_CRESCENT>
+<STRING_MOON_DESC_WAXING_GIBBOUS>有明月</STRING_MOON_DESC_WAXING_GIBBOUS>
+<STRING_MOON_DESC_WANING_GIBBOUS>有明月</STRING_MOON_DESC_WANING_GIBBOUS>
+<STRING_MOON_DESC_WANING_CRESCENT>三日月</STRING_MOON_DESC_WANING_CRESCENT>
+</strings>
